@@ -1,0 +1,734 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-03",
+    "name": "Paush Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-14",
+    "name": "Shattila Ekadashi, Pongal, Uttarayan, Makar Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-16",
+    "name": "Pradosh Vrat (K), Masik Shivaratri",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-18",
+    "name": "Magha Amavasya",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-23",
+    "name": "Basant Panchmi, Saraswati Puja",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-29",
+    "name": "Jaya / Bhami Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-30",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-02-01",
+    "name": "Magha Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-05",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-13",
+    "name": "Vijaya Ekadashi, Kumbha Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-14",
+    "name": "Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-15",
+    "name": "Mahashivratri, Masik Shivaratri",
+    "state_proxy": "andhra-telangana",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Phalguna Amavasya",
+    "state_proxy": "andhra-telangana",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-27",
+    "name": "Amalaki Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-28",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "february"
+  },
+  {
+    "date": "2026-03-03",
+    "name": "Holika Dahan, Phalguna Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-04",
+    "name": "Holi",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-06",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-15",
+    "name": "Papmochani Ekadashi, Meena Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-16",
+    "name": "Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-17",
+    "name": "Masik Shivaratri",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-19",
+    "name": "Chaitra Navratri, Ugadi, Ghatasthapana, Gudi Padwa",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-20",
+    "name": "Cheti Chand",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-26",
+    "name": "Ram Navami",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-27",
+    "name": "Chaitra Navratri Parana",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-29",
+    "name": "Kamada Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-30",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Hanuman jayanti, Chaitra Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-13",
+    "name": "Varuthini Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-14",
+    "name": "Mesha Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-15",
+    "name": "Masik Shivaratri, Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-17",
+    "name": "Vaishakha Amavasya",
+    "state_proxy": "andhra-telangana",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-19",
+    "name": "Akshaya Tritiya",
+    "state_proxy": "andhra-telangana",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-27",
+    "name": "Mohini Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-28",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "april"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Vaishakha Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-05",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-13",
+    "name": "Apara Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-15",
+    "name": "Masik Shivaratri, Vrishabha Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-16",
+    "name": "Jyeshtha Amavasya",
+    "state_proxy": "andhra-telangana",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-27",
+    "name": "Padmini Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-28",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "may"
+  },
+  {
+    "date": "2026-06-03",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-11",
+    "name": "Parama Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-12",
+    "name": "Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-13",
+    "name": "Masik Shivaratri",
+    "state_proxy": "andhra-telangana",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-15",
+    "name": "Amavasya, Mithuna Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-25",
+    "name": "Nirjala Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-27",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-29",
+    "name": "Jyeshtha Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "june"
+  },
+  {
+    "date": "2026-07-03",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-10",
+    "name": "Yogini Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-12",
+    "name": "Masik Shivaratri, Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-14",
+    "name": "Ashadha Amavasya",
+    "state_proxy": "andhra-telangana",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-16",
+    "name": "Jagannath Rath Yatra, Karka Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-25",
+    "name": "Deva Shayani Ekadashi, Ashadhi Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-26",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-29",
+    "name": "Guru Purnima, Ashadha Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "july"
+  },
+  {
+    "date": "2026-08-02",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-09",
+    "name": "Kamika Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-10",
+    "name": "Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-11",
+    "name": "Masik Shivaratri",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-12",
+    "name": "Shravana Amavasya",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Hariyali Teej",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-17",
+    "name": "Nag Panchami, Simha Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-23",
+    "name": "Shravana Putrada Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-25",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-26",
+    "name": "Onam/Thiruvonam",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-28",
+    "name": "Raksha Bandhan, Shravana Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-31",
+    "name": "Sankashti Chaturthi, Kajari Teej",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
+    "date": "2026-09-04",
+    "name": "Janmashtami",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-07",
+    "name": "Aja Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-08",
+    "name": "Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-09",
+    "name": "Masik Shivaratri",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-11",
+    "name": "Bhadrapada Amavasya",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-14",
+    "name": "Ganesh Chaturthi, Hartalika Teej",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-17",
+    "name": "Kanya Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-22",
+    "name": "Parivartini Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-24",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-25",
+    "name": "Anant Chaturdashi",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-26",
+    "name": "Bhadrapada Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-29",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
+    "date": "2026-10-06",
+    "name": "Indira Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-08",
+    "name": "Masik Shivaratri, Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-10",
+    "name": "Ashwin Amavasya",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-11",
+    "name": "Sharad Navratri, Ghatasthapana",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-16",
+    "name": "Kalparambha",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-17",
+    "name": "Navpatrika Puja, Tula Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-19",
+    "name": "Durga Maha Navami Puja, Durga Puja Ashtami",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Dussehra, Sharad Navratri Parana",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-21",
+    "name": "Durga Visarjan",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-22",
+    "name": "Papankusha Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-23",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-26",
+    "name": "Ashwin Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-29",
+    "name": "Sankashti Chaturthi, Karva Chauth",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-11-05",
+    "name": "Rama Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-06",
+    "name": "Dhanteras, Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-07",
+    "name": "Masik Shivaratri",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-08",
+    "name": "Diwali, Narak Chaturdashi",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-09",
+    "name": "Kartik Amavasya",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-10",
+    "name": "Govardhan Puja",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Bhai Dooj",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-15",
+    "name": "Chhath Puja",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-16",
+    "name": "Vrischika Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-20",
+    "name": "Devutthana Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-22",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "Kartik Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
+    "date": "2026-12-04",
+    "name": "Utpanna Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-06",
+    "name": "Pradosh Vrat (K)",
+    "state_proxy": "andhra-telangana",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-07",
+    "name": "Masik Shivaratri",
+    "state_proxy": "andhra-telangana",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Margashirsha Amavasya",
+    "state_proxy": "andhra-telangana",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-16",
+    "name": "Dhanu Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-20",
+    "name": "Mokshada Ekadashi",
+    "state_proxy": "andhra-telangana",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-21",
+    "name": "Pradosh Vrat (S)",
+    "state_proxy": "andhra-telangana",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-23",
+    "name": "Margashirsha Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "december"
+  }
+]

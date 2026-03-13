@@ -1,0 +1,734 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-03",
+    "name": "Paush Purnima Vrat",
+    "raw_text": "Paush Purnima Vrat",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-14",
+    "name": "Shattila Ekadashi, Pongal, Uttarayan, Makar Sankranti",
+    "raw_text": "Shattila Ekadashi,Pongal,Uttarayan,Makar Sankranti",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-16",
+    "name": "Pradosh Vrat (K), Masik Shivaratri",
+    "raw_text": "Pradosh Vrat (K),Masik Shivaratri",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-18",
+    "name": "Magha Amavasya",
+    "raw_text": "Magha Amavasya",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-23",
+    "name": "Basant Panchmi, Saraswati Puja",
+    "raw_text": "Basant Panchmi,Saraswati Puja",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-29",
+    "name": "Jaya / Bhami Ekadashi",
+    "raw_text": "Jaya / Bhami Ekadashi",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-30",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "january"
+  },
+  {
+    "date": "2026-02-01",
+    "name": "Magha Purnima Vrat",
+    "raw_text": "Magha Purnima Vrat",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-05",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-13",
+    "name": "Vijaya Ekadashi, Kumbha Sankranti",
+    "raw_text": "Vijaya Ekadashi,Kumbha Sankranti",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-14",
+    "name": "Pradosh Vrat (K)",
+    "raw_text": "Pradosh Vrat (K)",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-15",
+    "name": "Mahashivratri, Masik Shivaratri",
+    "raw_text": "Mahashivratri,Masik Shivaratri",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Phalguna Amavasya",
+    "raw_text": "Phalguna Amavasya",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-27",
+    "name": "Amalaki Ekadashi",
+    "raw_text": "Amalaki Ekadashi",
+    "month": "february"
+  },
+  {
+    "date": "2026-02-28",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "february"
+  },
+  {
+    "date": "2026-03-03",
+    "name": "Holika Dahan, Phalguna Purnima Vrat",
+    "raw_text": "Holika Dahan,Phalguna Purnima Vrat",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-04",
+    "name": "Holi",
+    "raw_text": "Holi",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-06",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-15",
+    "name": "Papmochani Ekadashi, Meena Sankranti",
+    "raw_text": "Papmochani Ekadashi,Meena Sankranti",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-16",
+    "name": "Pradosh Vrat (K)",
+    "raw_text": "Pradosh Vrat (K)",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-17",
+    "name": "Masik Shivaratri",
+    "raw_text": "Masik Shivaratri",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-19",
+    "name": "Chaitra Navratri, Ugadi, Ghatasthapana, Gudi Padwa",
+    "raw_text": "Chaitra Navratri,Ugadi,Ghatasthapana,Gudi Padwa",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-20",
+    "name": "Cheti Chand",
+    "raw_text": "Cheti Chand",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-26",
+    "name": "Ram Navami",
+    "raw_text": "Ram Navami",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-27",
+    "name": "Chaitra Navratri Parana",
+    "raw_text": "Chaitra Navratri Parana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-29",
+    "name": "Kamada Ekadashi",
+    "raw_text": "Kamada Ekadashi",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-30",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "march"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Hanuman jayanti, Chaitra Purnima Vrat",
+    "raw_text": "Hanuman jayanti,Chaitra Purnima Vrat",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-13",
+    "name": "Varuthini Ekadashi",
+    "raw_text": "Varuthini Ekadashi",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-14",
+    "name": "Mesha Sankranti",
+    "raw_text": "Mesha Sankranti",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-15",
+    "name": "Masik Shivaratri, Pradosh Vrat (K)",
+    "raw_text": "Masik Shivaratri,Pradosh Vrat (K)",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-17",
+    "name": "Vaishakha Amavasya",
+    "raw_text": "Vaishakha Amavasya",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-19",
+    "name": "Akshaya Tritiya",
+    "raw_text": "Akshaya Tritiya",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-27",
+    "name": "Mohini Ekadashi",
+    "raw_text": "Mohini Ekadashi",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-28",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "april"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Vaishakha Purnima Vrat",
+    "raw_text": "Vaishakha Purnima Vrat",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-05",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-13",
+    "name": "Apara Ekadashi",
+    "raw_text": "Apara Ekadashi",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Pradosh Vrat (K)",
+    "raw_text": "Pradosh Vrat (K)",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-15",
+    "name": "Masik Shivaratri, Vrishabha Sankranti",
+    "raw_text": "Masik Shivaratri,Vrishabha Sankranti",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-16",
+    "name": "Jyeshtha Amavasya",
+    "raw_text": "Jyeshtha Amavasya",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-27",
+    "name": "Padmini Ekadashi",
+    "raw_text": "Padmini Ekadashi",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-28",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Purnima Vrat",
+    "raw_text": "Purnima Vrat",
+    "month": "may"
+  },
+  {
+    "date": "2026-06-03",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-11",
+    "name": "Parama Ekadashi",
+    "raw_text": "Parama Ekadashi",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-12",
+    "name": "Pradosh Vrat (K)",
+    "raw_text": "Pradosh Vrat (K)",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-13",
+    "name": "Masik Shivaratri",
+    "raw_text": "Masik Shivaratri",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-15",
+    "name": "Amavasya, Mithuna Sankranti",
+    "raw_text": "Amavasya,Mithuna Sankranti",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-25",
+    "name": "Nirjala Ekadashi",
+    "raw_text": "Nirjala Ekadashi",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-27",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-29",
+    "name": "Jyeshtha Purnima Vrat",
+    "raw_text": "Jyeshtha Purnima Vrat",
+    "month": "june"
+  },
+  {
+    "date": "2026-07-03",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-10",
+    "name": "Yogini Ekadashi",
+    "raw_text": "Yogini Ekadashi",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-12",
+    "name": "Masik Shivaratri, Pradosh Vrat (K)",
+    "raw_text": "Masik Shivaratri,Pradosh Vrat (K)",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-14",
+    "name": "Ashadha Amavasya",
+    "raw_text": "Ashadha Amavasya",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-16",
+    "name": "Jagannath Rath Yatra, Karka Sankranti",
+    "raw_text": "Jagannath Rath Yatra,Karka Sankranti",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-25",
+    "name": "Deva Shayani Ekadashi, Ashadhi Ekadashi",
+    "raw_text": "Deva Shayani Ekadashi,Ashadhi Ekadashi",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-26",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "july"
+  },
+  {
+    "date": "2026-07-29",
+    "name": "Guru Purnima, Ashadha Purnima Vrat",
+    "raw_text": "Guru Purnima,Ashadha Purnima Vrat",
+    "month": "july"
+  },
+  {
+    "date": "2026-08-02",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-09",
+    "name": "Kamika Ekadashi",
+    "raw_text": "Kamika Ekadashi",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-10",
+    "name": "Pradosh Vrat (K)",
+    "raw_text": "Pradosh Vrat (K)",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-11",
+    "name": "Masik Shivaratri",
+    "raw_text": "Masik Shivaratri",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-12",
+    "name": "Shravana Amavasya",
+    "raw_text": "Shravana Amavasya",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Hariyali Teej",
+    "raw_text": "Hariyali Teej",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-17",
+    "name": "Nag Panchami, Simha Sankranti",
+    "raw_text": "Nag Panchami,Simha Sankranti",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-23",
+    "name": "Shravana Putrada Ekadashi",
+    "raw_text": "Shravana Putrada Ekadashi",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-25",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-26",
+    "name": "Onam/Thiruvonam",
+    "raw_text": "Onam/Thiruvonam",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-28",
+    "name": "Raksha Bandhan, Shravana Purnima Vrat",
+    "raw_text": "Raksha Bandhan,Shravana Purnima Vrat",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-31",
+    "name": "Sankashti Chaturthi, Kajari Teej",
+    "raw_text": "Sankashti Chaturthi,Kajari Teej",
+    "month": "august"
+  },
+  {
+    "date": "2026-09-04",
+    "name": "Janmashtami",
+    "raw_text": "Janmashtami",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-07",
+    "name": "Aja Ekadashi",
+    "raw_text": "Aja Ekadashi",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-08",
+    "name": "Pradosh Vrat (K)",
+    "raw_text": "Pradosh Vrat (K)",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-09",
+    "name": "Masik Shivaratri",
+    "raw_text": "Masik Shivaratri",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-11",
+    "name": "Bhadrapada Amavasya",
+    "raw_text": "Bhadrapada Amavasya",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-14",
+    "name": "Ganesh Chaturthi, Hartalika Teej",
+    "raw_text": "Ganesh Chaturthi,Hartalika Teej",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-17",
+    "name": "Kanya Sankranti",
+    "raw_text": "Kanya Sankranti",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-22",
+    "name": "Parivartini Ekadashi",
+    "raw_text": "Parivartini Ekadashi",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-24",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-25",
+    "name": "Anant Chaturdashi",
+    "raw_text": "Anant Chaturdashi",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-26",
+    "name": "Bhadrapada Purnima Vrat",
+    "raw_text": "Bhadrapada Purnima Vrat",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-29",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "september"
+  },
+  {
+    "date": "2026-10-06",
+    "name": "Indira Ekadashi",
+    "raw_text": "Indira Ekadashi",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-08",
+    "name": "Masik Shivaratri, Pradosh Vrat (K)",
+    "raw_text": "Masik Shivaratri,Pradosh Vrat (K)",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-10",
+    "name": "Ashwin Amavasya",
+    "raw_text": "Ashwin Amavasya",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-11",
+    "name": "Sharad Navratri, Ghatasthapana",
+    "raw_text": "Sharad Navratri,Ghatasthapana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-16",
+    "name": "Kalparambha",
+    "raw_text": "Kalparambha",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-17",
+    "name": "Navpatrika Puja, Tula Sankranti",
+    "raw_text": "Navpatrika Puja,Tula Sankranti",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-19",
+    "name": "Durga Maha Navami Puja, Durga Puja Ashtami",
+    "raw_text": "Durga Maha Navami Puja,Durga Puja Ashtami",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Dussehra, Sharad Navratri Parana",
+    "raw_text": "Dussehra,Sharad Navratri Parana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-21",
+    "name": "Durga Visarjan",
+    "raw_text": "Durga Visarjan",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-22",
+    "name": "Papankusha Ekadashi",
+    "raw_text": "Papankusha Ekadashi",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-23",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-26",
+    "name": "Ashwin Purnima Vrat",
+    "raw_text": "Ashwin Purnima Vrat",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-29",
+    "name": "Sankashti Chaturthi, Karva Chauth",
+    "raw_text": "Sankashti Chaturthi,Karva Chauth",
+    "month": "october"
+  },
+  {
+    "date": "2026-11-05",
+    "name": "Rama Ekadashi",
+    "raw_text": "Rama Ekadashi",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-06",
+    "name": "Dhanteras, Pradosh Vrat (K)",
+    "raw_text": "Dhanteras,Pradosh Vrat (K)",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-07",
+    "name": "Masik Shivaratri",
+    "raw_text": "Masik Shivaratri",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-08",
+    "name": "Diwali, Narak Chaturdashi",
+    "raw_text": "Diwali,Narak Chaturdashi",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-09",
+    "name": "Kartik Amavasya",
+    "raw_text": "Kartik Amavasya",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-10",
+    "name": "Govardhan Puja",
+    "raw_text": "Govardhan Puja",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Bhai Dooj",
+    "raw_text": "Bhai Dooj",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-15",
+    "name": "Chhath Puja",
+    "raw_text": "Chhath Puja",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-16",
+    "name": "Vrischika Sankranti",
+    "raw_text": "Vrischika Sankranti",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-20",
+    "name": "Devutthana Ekadashi",
+    "raw_text": "Devutthana Ekadashi",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-22",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "Kartik Purnima Vrat",
+    "raw_text": "Kartik Purnima Vrat",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "november"
+  },
+  {
+    "date": "2026-12-04",
+    "name": "Utpanna Ekadashi",
+    "raw_text": "Utpanna Ekadashi",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-06",
+    "name": "Pradosh Vrat (K)",
+    "raw_text": "Pradosh Vrat (K)",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-07",
+    "name": "Masik Shivaratri",
+    "raw_text": "Masik Shivaratri",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Margashirsha Amavasya",
+    "raw_text": "Margashirsha Amavasya",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-16",
+    "name": "Dhanu Sankranti",
+    "raw_text": "Dhanu Sankranti",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-20",
+    "name": "Mokshada Ekadashi",
+    "raw_text": "Mokshada Ekadashi",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-21",
+    "name": "Pradosh Vrat (S)",
+    "raw_text": "Pradosh Vrat (S)",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-23",
+    "name": "Margashirsha Purnima Vrat",
+    "raw_text": "Margashirsha Purnima Vrat",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Sankashti Chaturthi",
+    "raw_text": "Sankashti Chaturthi",
+    "month": "december"
+  }
+]
