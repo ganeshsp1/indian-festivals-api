@@ -119,7 +119,7 @@ def main():
                 all_data[state] = state_festivals
 
         # Save year summary
-        with open(f"{output_dir}/indian_festivals_{year_str}_all_states.json", "w") as f:
+        with open(f"{output_dir}/hindu_festivals_{year_str}_all_states.json", "w") as f:
             json.dump(all_data, f, indent=2)
             
         # If this is the 'fresher' year, update latest.json

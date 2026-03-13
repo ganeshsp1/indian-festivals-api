@@ -1,4 +1,4 @@
-name: Monthly Festival Data Update
+name: Hindu Festival Data Update
 
 on:
   schedule:
