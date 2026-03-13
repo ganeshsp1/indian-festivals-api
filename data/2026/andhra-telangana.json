@@ -24,8 +24,26 @@
     "month": "january"
   },
   {
+    "date": "2026-01-14",
+    "name": "Makar Sankranti",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-14",
+    "name": "Pongal",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
     "date": "2026-01-16",
     "name": "Pradosh Vrat (K), Masik Shivaratri",
+    "state_proxy": "andhra-telangana",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-16",
+    "name": "Kanuma Panduga",
     "state_proxy": "andhra-telangana",
     "month": "january"
   },
@@ -108,6 +126,12 @@
     "month": "march"
   },
   {
+    "date": "2026-03-03",
+    "name": "Holi",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
     "date": "2026-03-04",
     "name": "Holi",
     "state_proxy": "andhra-telangana",
@@ -150,6 +174,18 @@
     "month": "march"
   },
   {
+    "date": "2026-03-20",
+    "name": "Ugadi",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-22",
+    "name": "Eid Ul Fitr Holiday",
+    "state_proxy": "andhra-telangana",
+    "month": "march"
+  },
+  {
     "date": "2026-03-26",
     "name": "Ram Navami",
     "state_proxy": "andhra-telangana",
@@ -182,6 +218,12 @@
   {
     "date": "2026-04-05",
     "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Babu Jagjivan Ram Jayanti",
     "state_proxy": "andhra-telangana",
     "month": "april"
   },
@@ -230,6 +272,12 @@
   {
     "date": "2026-05-01",
     "name": "Vaishakha Purnima Vrat",
+    "state_proxy": "andhra-telangana",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
     "state_proxy": "andhra-telangana",
     "month": "may"
   },
@@ -396,6 +444,12 @@
     "month": "august"
   },
   {
+    "date": "2026-08-10",
+    "name": "Bonalu",
+    "state_proxy": "andhra-telangana",
+    "month": "august"
+  },
+  {
     "date": "2026-08-11",
     "name": "Masik Shivaratri",
     "state_proxy": "andhra-telangana",
@@ -486,6 +540,12 @@
     "month": "september"
   },
   {
+    "date": "2026-09-15",
+    "name": "Ganesh Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "september"
+  },
+  {
     "date": "2026-09-17",
     "name": "Kanya Sankranti",
     "state_proxy": "andhra-telangana",
@@ -546,6 +606,12 @@
     "month": "october"
   },
   {
+    "date": "2026-10-11",
+    "name": "First Day of Bathukamma",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
     "date": "2026-10-16",
     "name": "Kalparambha",
     "state_proxy": "andhra-telangana",
@@ -560,6 +626,12 @@
   {
     "date": "2026-10-19",
     "name": "Durga Maha Navami Puja, Durga Puja Ashtami",
+    "state_proxy": "andhra-telangana",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-19",
+    "name": "Mahashtami",
     "state_proxy": "andhra-telangana",
     "month": "october"
   },
@@ -672,6 +744,12 @@
     "month": "november"
   },
   {
+    "date": "2026-11-24",
+    "name": "Kartik Purnima",
+    "state_proxy": "andhra-telangana",
+    "month": "november"
+  },
+  {
     "date": "2026-11-27",
     "name": "Sankashti Chaturthi",
     "state_proxy": "andhra-telangana",
@@ -728,6 +806,12 @@
   {
     "date": "2026-12-26",
     "name": "Sankashti Chaturthi",
+    "state_proxy": "andhra-telangana",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Christmas Day",
     "state_proxy": "andhra-telangana",
     "month": "december"
   }

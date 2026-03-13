@@ -6,6 +6,12 @@
     "month": "january"
   },
   {
+    "date": "2026-01-02",
+    "name": "Mannam Jayanti",
+    "state_proxy": "kerala",
+    "month": "january"
+  },
+  {
     "date": "2026-01-03",
     "name": "Paush Purnima Vrat",
     "state_proxy": "kerala",
@@ -186,6 +192,12 @@
     "month": "april"
   },
   {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "state_proxy": "kerala",
+    "month": "april"
+  },
+  {
     "date": "2026-04-13",
     "name": "Varuthini Ekadashi",
     "state_proxy": "kerala",
@@ -194,6 +206,12 @@
   {
     "date": "2026-04-14",
     "name": "Mesha Sankranti",
+    "state_proxy": "kerala",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-14",
+    "name": "Vishu",
     "state_proxy": "kerala",
     "month": "april"
   },
@@ -230,6 +248,12 @@
   {
     "date": "2026-05-01",
     "name": "Vaishakha Purnima Vrat",
+    "state_proxy": "kerala",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
     "state_proxy": "kerala",
     "month": "may"
   },
@@ -314,6 +338,12 @@
   {
     "date": "2026-06-25",
     "name": "Nirjala Ekadashi",
+    "state_proxy": "kerala",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-26",
+    "name": "Muharram",
     "state_proxy": "kerala",
     "month": "june"
   },
@@ -432,8 +462,20 @@
     "month": "august"
   },
   {
+    "date": "2026-08-25",
+    "name": "First Onam",
+    "state_proxy": "kerala",
+    "month": "august"
+  },
+  {
     "date": "2026-08-26",
     "name": "Onam/Thiruvonam",
+    "state_proxy": "kerala",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-27",
+    "name": "Thiruvonam",
     "state_proxy": "kerala",
     "month": "august"
   },
@@ -492,6 +534,12 @@
     "month": "september"
   },
   {
+    "date": "2026-09-21",
+    "name": "Sree Narayana Guru Samadhi Day",
+    "state_proxy": "kerala",
+    "month": "september"
+  },
+  {
     "date": "2026-09-22",
     "name": "Parivartini Ekadashi",
     "state_proxy": "kerala",
@@ -512,6 +560,12 @@
   {
     "date": "2026-09-26",
     "name": "Bhadrapada Purnima Vrat",
+    "state_proxy": "kerala",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-26",
+    "name": "Sri Narayana Guru Jayanti",
     "state_proxy": "kerala",
     "month": "september"
   },
@@ -566,6 +620,12 @@
   {
     "date": "2026-10-20",
     "name": "Dussehra, Sharad Navratri Parana",
+    "state_proxy": "kerala",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Mahanavami",
     "state_proxy": "kerala",
     "month": "october"
   },
@@ -668,6 +728,12 @@
   {
     "date": "2026-11-24",
     "name": "Kartik Purnima Vrat",
+    "state_proxy": "kerala",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "Guru Nanak Jayanti",
     "state_proxy": "kerala",
     "month": "november"
   },

@@ -18,6 +18,12 @@
     "month": "january"
   },
   {
+    "date": "2026-01-12",
+    "name": "Swami Vivekananda Birth Anniversary",
+    "state_proxy": "west-bengal",
+    "month": "january"
+  },
+  {
     "date": "2026-01-14",
     "name": "Shattila Ekadashi, Pongal, Uttarayan, Makar Sankranti",
     "state_proxy": "west-bengal",
@@ -38,6 +44,18 @@
   {
     "date": "2026-01-23",
     "name": "Basant Panchmi, Saraswati Puja",
+    "state_proxy": "west-bengal",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-23",
+    "name": "Netaji Subhash Chandra Bose Jayanti",
+    "state_proxy": "west-bengal",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-23",
+    "name": "Basant Panchami",
     "state_proxy": "west-bengal",
     "month": "january"
   },
@@ -104,6 +122,12 @@
   {
     "date": "2026-03-03",
     "name": "Holika Dahan, Phalguna Purnima Vrat",
+    "state_proxy": "west-bengal",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-03",
+    "name": "Dolyatra",
     "state_proxy": "west-bengal",
     "month": "march"
   },
@@ -204,6 +228,12 @@
     "month": "april"
   },
   {
+    "date": "2026-04-15",
+    "name": "Bengali New Year",
+    "state_proxy": "west-bengal",
+    "month": "april"
+  },
+  {
     "date": "2026-04-17",
     "name": "Vaishakha Amavasya",
     "state_proxy": "west-bengal",
@@ -234,8 +264,26 @@
     "month": "may"
   },
   {
+    "date": "2026-05-01",
+    "name": "Budha Purnima",
+    "state_proxy": "west-bengal",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "state_proxy": "west-bengal",
+    "month": "may"
+  },
+  {
     "date": "2026-05-05",
     "name": "Sankashti Chaturthi",
+    "state_proxy": "west-bengal",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-09",
+    "name": "Guru Rabindranath Tagore Birth Anniversary",
     "state_proxy": "west-bengal",
     "month": "may"
   },
@@ -432,6 +480,12 @@
     "month": "august"
   },
   {
+    "date": "2026-08-25",
+    "name": "Ei-e-Milad",
+    "state_proxy": "west-bengal",
+    "month": "august"
+  },
+  {
     "date": "2026-08-26",
     "name": "Onam/Thiruvonam",
     "state_proxy": "west-bengal",
@@ -540,6 +594,12 @@
     "month": "october"
   },
   {
+    "date": "2026-10-10",
+    "name": "Mahalaya Amavasya",
+    "state_proxy": "west-bengal",
+    "month": "october"
+  },
+  {
     "date": "2026-10-11",
     "name": "Sharad Navratri, Ghatasthapana",
     "state_proxy": "west-bengal",
@@ -558,14 +618,32 @@
     "month": "october"
   },
   {
+    "date": "2026-10-18",
+    "name": "Mahasaptami",
+    "state_proxy": "west-bengal",
+    "month": "october"
+  },
+  {
     "date": "2026-10-19",
     "name": "Durga Maha Navami Puja, Durga Puja Ashtami",
     "state_proxy": "west-bengal",
     "month": "october"
   },
   {
+    "date": "2026-10-19",
+    "name": "Mahashtami",
+    "state_proxy": "west-bengal",
+    "month": "october"
+  },
+  {
     "date": "2026-10-20",
     "name": "Dussehra, Sharad Navratri Parana",
+    "state_proxy": "west-bengal",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Mahanavami",
     "state_proxy": "west-bengal",
     "month": "october"
   },
@@ -584,6 +662,12 @@
   {
     "date": "2026-10-23",
     "name": "Pradosh Vrat (S)",
+    "state_proxy": "west-bengal",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Laxmi Puja",
     "state_proxy": "west-bengal",
     "month": "october"
   },

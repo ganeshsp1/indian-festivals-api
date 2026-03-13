@@ -42,6 +42,12 @@
     "month": "january"
   },
   {
+    "date": "2026-01-26",
+    "name": "Republic Day",
+    "state_proxy": "national",
+    "month": "january"
+  },
+  {
     "date": "2026-01-29",
     "name": "Jaya / Bhami Ekadashi",
     "state_proxy": "national",
@@ -84,6 +90,12 @@
     "month": "february"
   },
   {
+    "date": "2026-02-15",
+    "name": "Mahashivratri",
+    "state_proxy": "national",
+    "month": "february"
+  },
+  {
     "date": "2026-02-17",
     "name": "Phalguna Amavasya",
     "state_proxy": "national",
@@ -104,6 +116,12 @@
   {
     "date": "2026-03-03",
     "name": "Holika Dahan, Phalguna Purnima Vrat",
+    "state_proxy": "national",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-03",
+    "name": "Holi",
     "state_proxy": "national",
     "month": "march"
   },
@@ -150,6 +168,12 @@
     "month": "march"
   },
   {
+    "date": "2026-03-21",
+    "name": "Eid- Ul- Fitr",
+    "state_proxy": "national",
+    "month": "march"
+  },
+  {
     "date": "2026-03-26",
     "name": "Ram Navami",
     "state_proxy": "national",
@@ -180,6 +204,12 @@
     "month": "april"
   },
   {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "state_proxy": "national",
+    "month": "april"
+  },
+  {
     "date": "2026-04-05",
     "name": "Sankashti Chaturthi",
     "state_proxy": "national",
@@ -194,6 +224,12 @@
   {
     "date": "2026-04-14",
     "name": "Mesha Sankranti",
+    "state_proxy": "national",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-14",
+    "name": "Dr. Ambekar Jayanti",
     "state_proxy": "national",
     "month": "april"
   },
@@ -270,6 +306,12 @@
     "month": "may"
   },
   {
+    "date": "2026-05-27",
+    "name": "Bakrid/Eid-ul-Adha",
+    "state_proxy": "national",
+    "month": "may"
+  },
+  {
     "date": "2026-05-28",
     "name": "Pradosh Vrat (S)",
     "state_proxy": "national",
@@ -314,6 +356,12 @@
   {
     "date": "2026-06-25",
     "name": "Nirjala Ekadashi",
+    "state_proxy": "national",
+    "month": "june"
+  },
+  {
+    "date": "2026-06-26",
+    "name": "Muharram",
     "state_proxy": "national",
     "month": "june"
   },
@@ -414,6 +462,12 @@
     "month": "august"
   },
   {
+    "date": "2026-08-15",
+    "name": "Independence Day",
+    "state_proxy": "national",
+    "month": "august"
+  },
+  {
     "date": "2026-08-17",
     "name": "Nag Panchami, Simha Sankranti",
     "state_proxy": "national",
@@ -428,6 +482,12 @@
   {
     "date": "2026-08-25",
     "name": "Pradosh Vrat (S)",
+    "state_proxy": "national",
+    "month": "august"
+  },
+  {
+    "date": "2026-08-25",
+    "name": "Ei-e-Milad",
     "state_proxy": "national",
     "month": "august"
   },
@@ -522,6 +582,12 @@
     "month": "september"
   },
   {
+    "date": "2026-10-02",
+    "name": "Gandhi Jayanti",
+    "state_proxy": "national",
+    "month": "october"
+  },
+  {
     "date": "2026-10-06",
     "name": "Indira Ekadashi",
     "state_proxy": "national",
@@ -576,6 +642,12 @@
     "month": "october"
   },
   {
+    "date": "2026-10-21",
+    "name": "Vijayadashmi",
+    "state_proxy": "national",
+    "month": "october"
+  },
+  {
     "date": "2026-10-22",
     "name": "Papankusha Ekadashi",
     "state_proxy": "national",
@@ -624,6 +696,12 @@
     "month": "november"
   },
   {
+    "date": "2026-11-08",
+    "name": "Diwali",
+    "state_proxy": "national",
+    "month": "november"
+  },
+  {
     "date": "2026-11-09",
     "name": "Kartik Amavasya",
     "state_proxy": "national",
@@ -668,6 +746,12 @@
   {
     "date": "2026-11-24",
     "name": "Kartik Purnima Vrat",
+    "state_proxy": "national",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "Guru Nanak Jayanti",
     "state_proxy": "national",
     "month": "november"
   },
@@ -722,6 +806,12 @@
   {
     "date": "2026-12-23",
     "name": "Margashirsha Purnima Vrat",
+    "state_proxy": "national",
+    "month": "december"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
     "state_proxy": "national",
     "month": "december"
   },

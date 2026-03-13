@@ -24,8 +24,26 @@
     "month": "january"
   },
   {
+    "date": "2026-01-14",
+    "name": "Pongal",
+    "state_proxy": "tamil-nadu",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-15",
+    "name": "Thiruvalluvar Diwas",
+    "state_proxy": "tamil-nadu",
+    "month": "january"
+  },
+  {
     "date": "2026-01-16",
     "name": "Pradosh Vrat (K), Masik Shivaratri",
+    "state_proxy": "tamil-nadu",
+    "month": "january"
+  },
+  {
+    "date": "2026-01-16",
+    "name": "Ujhhawar Thirunal",
     "state_proxy": "tamil-nadu",
     "month": "january"
   },
@@ -84,6 +102,12 @@
     "month": "february"
   },
   {
+    "date": "2026-02-15",
+    "name": "Mahashivratri",
+    "state_proxy": "tamil-nadu",
+    "month": "february"
+  },
+  {
     "date": "2026-02-17",
     "name": "Phalguna Amavasya",
     "state_proxy": "tamil-nadu",
@@ -104,6 +128,12 @@
   {
     "date": "2026-03-03",
     "name": "Holika Dahan, Phalguna Purnima Vrat",
+    "state_proxy": "tamil-nadu",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-03",
+    "name": "Holi",
     "state_proxy": "tamil-nadu",
     "month": "march"
   },
@@ -150,6 +180,12 @@
     "month": "march"
   },
   {
+    "date": "2026-03-20",
+    "name": "Telugu New Year",
+    "state_proxy": "tamil-nadu",
+    "month": "march"
+  },
+  {
     "date": "2026-03-26",
     "name": "Ram Navami",
     "state_proxy": "tamil-nadu",
@@ -174,6 +210,12 @@
     "month": "march"
   },
   {
+    "date": "2026-03-31",
+    "name": "Mahavir Jayanti",
+    "state_proxy": "tamil-nadu",
+    "month": "march"
+  },
+  {
     "date": "2026-04-02",
     "name": "Hanuman jayanti, Chaitra Purnima Vrat",
     "state_proxy": "tamil-nadu",
@@ -194,6 +236,12 @@
   {
     "date": "2026-04-14",
     "name": "Mesha Sankranti",
+    "state_proxy": "tamil-nadu",
+    "month": "april"
+  },
+  {
+    "date": "2026-04-14",
+    "name": "Tamil New Year",
     "state_proxy": "tamil-nadu",
     "month": "april"
   },
@@ -230,6 +278,12 @@
   {
     "date": "2026-05-01",
     "name": "Vaishakha Purnima Vrat",
+    "state_proxy": "tamil-nadu",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
     "state_proxy": "tamil-nadu",
     "month": "may"
   },
@@ -486,6 +540,12 @@
     "month": "september"
   },
   {
+    "date": "2026-09-15",
+    "name": "Ganesh Chaturthi",
+    "state_proxy": "tamil-nadu",
+    "month": "september"
+  },
+  {
     "date": "2026-09-17",
     "name": "Kanya Sankranti",
     "state_proxy": "tamil-nadu",
@@ -566,6 +626,12 @@
   {
     "date": "2026-10-20",
     "name": "Dussehra, Sharad Navratri Parana",
+    "state_proxy": "tamil-nadu",
+    "month": "october"
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Mahanavami",
     "state_proxy": "tamil-nadu",
     "month": "october"
   },
@@ -668,6 +734,12 @@
   {
     "date": "2026-11-24",
     "name": "Kartik Purnima Vrat",
+    "state_proxy": "tamil-nadu",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "Guru Nanak Jayanti",
     "state_proxy": "tamil-nadu",
     "month": "november"
   },

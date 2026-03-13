@@ -90,6 +90,12 @@
     "month": "february"
   },
   {
+    "date": "2026-02-19",
+    "name": "Chhatrapati Shivaji Maharaj Jayanti",
+    "state_proxy": "maharashtra",
+    "month": "february"
+  },
+  {
     "date": "2026-02-27",
     "name": "Amalaki Ekadashi",
     "state_proxy": "maharashtra",
@@ -150,6 +156,12 @@
     "month": "march"
   },
   {
+    "date": "2026-03-20",
+    "name": "Gudi Padva",
+    "state_proxy": "maharashtra",
+    "month": "march"
+  },
+  {
     "date": "2026-03-26",
     "name": "Ram Navami",
     "state_proxy": "maharashtra",
@@ -162,6 +174,12 @@
     "month": "march"
   },
   {
+    "date": "2026-03-27",
+    "name": "Ramnavami",
+    "state_proxy": "maharashtra",
+    "month": "march"
+  },
+  {
     "date": "2026-03-29",
     "name": "Kamada Ekadashi",
     "state_proxy": "maharashtra",
@@ -170,6 +188,12 @@
   {
     "date": "2026-03-30",
     "name": "Pradosh Vrat (S)",
+    "state_proxy": "maharashtra",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-31",
+    "name": "Mahavir Jayanti",
     "state_proxy": "maharashtra",
     "month": "march"
   },
@@ -230,6 +254,18 @@
   {
     "date": "2026-05-01",
     "name": "Vaishakha Purnima Vrat",
+    "state_proxy": "maharashtra",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Maharashtra Diwas",
+    "state_proxy": "maharashtra",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Budha Purnima",
     "state_proxy": "maharashtra",
     "month": "may"
   },
@@ -414,6 +450,12 @@
     "month": "august"
   },
   {
+    "date": "2026-08-16",
+    "name": "Parsi New Year",
+    "state_proxy": "maharashtra",
+    "month": "august"
+  },
+  {
     "date": "2026-08-17",
     "name": "Nag Panchami, Simha Sankranti",
     "state_proxy": "maharashtra",
@@ -482,6 +524,12 @@
   {
     "date": "2026-09-14",
     "name": "Ganesh Chaturthi, Hartalika Teej",
+    "state_proxy": "maharashtra",
+    "month": "september"
+  },
+  {
+    "date": "2026-09-15",
+    "name": "Ganesh Chaturthi",
     "state_proxy": "maharashtra",
     "month": "september"
   },
@@ -626,6 +674,12 @@
   {
     "date": "2026-11-09",
     "name": "Kartik Amavasya",
+    "state_proxy": "maharashtra",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-09",
+    "name": "Diwali Holiday",
     "state_proxy": "maharashtra",
     "month": "november"
   },

@@ -24,6 +24,12 @@
     "month": "january"
   },
   {
+    "date": "2026-01-14",
+    "name": "Makar Sankranti",
+    "state_proxy": "karnataka",
+    "month": "january"
+  },
+  {
     "date": "2026-01-16",
     "name": "Pradosh Vrat (K), Masik Shivaratri",
     "state_proxy": "karnataka",
@@ -108,6 +114,12 @@
     "month": "march"
   },
   {
+    "date": "2026-03-03",
+    "name": "Holi",
+    "state_proxy": "karnataka",
+    "month": "march"
+  },
+  {
     "date": "2026-03-04",
     "name": "Holi",
     "state_proxy": "karnataka",
@@ -150,6 +162,12 @@
     "month": "march"
   },
   {
+    "date": "2026-03-20",
+    "name": "Ugadi",
+    "state_proxy": "karnataka",
+    "month": "march"
+  },
+  {
     "date": "2026-03-26",
     "name": "Ram Navami",
     "state_proxy": "karnataka",
@@ -170,6 +188,12 @@
   {
     "date": "2026-03-30",
     "name": "Pradosh Vrat (S)",
+    "state_proxy": "karnataka",
+    "month": "march"
+  },
+  {
+    "date": "2026-03-31",
+    "name": "Mahavir Jayanti",
     "state_proxy": "karnataka",
     "month": "march"
   },
@@ -216,6 +240,12 @@
     "month": "april"
   },
   {
+    "date": "2026-04-20",
+    "name": "Basav Jayanti",
+    "state_proxy": "karnataka",
+    "month": "april"
+  },
+  {
     "date": "2026-04-27",
     "name": "Mohini Ekadashi",
     "state_proxy": "karnataka",
@@ -230,6 +260,12 @@
   {
     "date": "2026-05-01",
     "name": "Vaishakha Purnima Vrat",
+    "state_proxy": "karnataka",
+    "month": "may"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
     "state_proxy": "karnataka",
     "month": "may"
   },
@@ -486,6 +522,12 @@
     "month": "september"
   },
   {
+    "date": "2026-09-15",
+    "name": "Ganesh Chaturthi",
+    "state_proxy": "karnataka",
+    "month": "september"
+  },
+  {
     "date": "2026-09-17",
     "name": "Kanya Sankranti",
     "state_proxy": "karnataka",
@@ -540,6 +582,12 @@
     "month": "october"
   },
   {
+    "date": "2026-10-10",
+    "name": "Mahalaya Amavasya",
+    "state_proxy": "karnataka",
+    "month": "october"
+  },
+  {
     "date": "2026-10-11",
     "name": "Sharad Navratri, Ghatasthapana",
     "state_proxy": "karnataka",
@@ -570,6 +618,12 @@
     "month": "october"
   },
   {
+    "date": "2026-10-20",
+    "name": "Mahanavami",
+    "state_proxy": "karnataka",
+    "month": "october"
+  },
+  {
     "date": "2026-10-21",
     "name": "Durga Visarjan",
     "state_proxy": "karnataka",
@@ -594,10 +648,22 @@
     "month": "october"
   },
   {
+    "date": "2026-10-26",
+    "name": "Maharishi Valmiki Jayanti",
+    "state_proxy": "karnataka",
+    "month": "october"
+  },
+  {
     "date": "2026-10-29",
     "name": "Sankashti Chaturthi, Karva Chauth",
     "state_proxy": "karnataka",
     "month": "october"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Kannada Rajyotsava",
+    "state_proxy": "karnataka",
+    "month": "november"
   },
   {
     "date": "2026-11-05",
@@ -626,6 +692,12 @@
   {
     "date": "2026-11-09",
     "name": "Kartik Amavasya",
+    "state_proxy": "karnataka",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-09",
+    "name": "Diwali Holiday",
     "state_proxy": "karnataka",
     "month": "november"
   },
@@ -672,8 +744,20 @@
     "month": "november"
   },
   {
+    "date": "2026-11-24",
+    "name": "Guru Nanak Jayanti",
+    "state_proxy": "karnataka",
+    "month": "november"
+  },
+  {
     "date": "2026-11-27",
     "name": "Sankashti Chaturthi",
+    "state_proxy": "karnataka",
+    "month": "november"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Kanakadasa Jayanti",
     "state_proxy": "karnataka",
     "month": "november"
   },

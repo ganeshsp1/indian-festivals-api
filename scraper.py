@@ -91,6 +91,98 @@ def scrape_astrosage(calendar_key, calendar_slug, month_name, year="2026"):
         print(f"  Error: {e}")
         return []
 
+def scrape_astrosage_public_holidays(year="2026"):
+    url = f"https://www.astrosage.com/{year}/public-holidays-{year}-eng.asp"
+    print(f"Scraping Supplemental Holidays for {year}...")
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
+    
+    holidays_by_state = {}
+    
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        tables = soup.find_all('table')
+        for table in tables:
+            rows = table.find_all('tr')
+            for row in rows:
+                cols = row.find_all(['td', 'th'])
+                if len(cols) == 4:
+                    date_text = cols[0].get_text(strip=True)
+                    # Skip header row
+                    if "Date" in date_text: continue
+                    
+                    name = cols[2].get_text(strip=True)
+                    states_raw = cols[3].get_text(strip=True)
+                    
+                    # Parse date: "14 April, 2026"
+                    clean_dt = date_text
+                    try:
+                        # Normalize date string for parsing
+                        norm_date = date_text.replace(",", "").strip()
+                        dt = datetime.strptime(norm_date, "%d %B %Y")
+                        clean_dt = dt.strftime("%Y-%m-%d")
+                        month_name = dt.strftime("%B").lower()
+                    except:
+                        month_name = "unknown"
+
+                    # Split states and map them
+                    states_list = [s.strip() for s in re.split(r',|&', states_raw)]
+                    for state_name in states_list:
+                        key = state_name.lower().replace(" ", "-")
+                        
+                        # Mapping
+                        mapped_key = None
+                        if "india" in key or "national" in key: mapped_key = "national"
+                        elif "kerala" in key: mapped_key = "kerala"
+                        elif "tamil" in key: mapped_key = "tamil-nadu"
+                        elif "andhra" in key or "telangana" in key: mapped_key = "andhra-telangana"
+                        elif "karnataka" in key: mapped_key = "karnataka"
+                        elif "maharashtra" in key: mapped_key = "maharashtra"
+                        elif "bengal" in key: mapped_key = "west-bengal"
+                        elif "gujarat" in key: mapped_key = "gujarat"
+                        
+                        if mapped_key:
+                            if mapped_key not in holidays_by_state:
+                                holidays_by_state[mapped_key] = []
+                            
+                            holidays_by_state[mapped_key].append({
+                                "date": clean_dt,
+                                "name": name,
+                                "state_proxy": mapped_key,
+                                "month": month_name
+                            })
+        return holidays_by_state
+    except Exception as e:
+        print(f"  Error scraping public holidays: {e}")
+        return {}
+
+def merge_festivals(base_list, supplemental_list):
+    # Use a set of (date, name) to avoid duplicates
+    seen = set()
+    merged = []
+    
+    for item in base_list:
+        # Standardize name for comparison (remove spaces/special chars)
+        norm = (item['date'], re.sub(r'\W+', '', item['name'].lower()))
+        if norm not in seen:
+            merged.append(item)
+            seen.add(norm)
+            
+    for item in supplemental_list:
+        norm = (item['date'], re.sub(r'\W+', '', item['name'].lower()))
+        if norm not in seen:
+            merged.append(item)
+            seen.add(norm)
+            
+    # Sort by date
+    merged.sort(key=lambda x: x['date'])
+    return merged
+
 def main():
     years_to_scrape = [datetime.now().year]
     
@@ -104,19 +196,27 @@ def main():
         os.makedirs(output_dir, exist_ok=True)
         print(f"\n--- Processing Year: {year_str} ---")
         
+        # 1. Fetch supplemental holidays first
+        supplemental_data = scrape_astrosage_public_holidays(year=year_str)
+        
         all_data = {}
         for state, slug in CALENDARS.items():
+            # 2. Fetch regional panchang festivals
             state_festivals = []
             for month in MONTHS:
                 month_data = scrape_astrosage(state, slug, month, year=year_str)
                 state_festivals.extend(month_data)
                 time.sleep(0.3) 
+            
+            # 3. Merge with supplemental regional holidays (vishu, baisakhi etc)
+            supp_for_state = supplemental_data.get(state, [])
+            merged_festivals = merge_festivals(state_festivals, supp_for_state)
                 
-            if state_festivals:
-                print(f"Total {state}: {len(state_festivals)}")
+            if merged_festivals:
+                print(f"Total {state}: {len(merged_festivals)} (Merged {len(supp_for_state)} supplemental)")
                 with open(f"{output_dir}/{state}.json", "w") as f:
-                    json.dump(state_festivals, f, indent=2)
-                all_data[state] = state_festivals
+                    json.dump(merged_festivals, f, indent=2)
+                all_data[state] = merged_festivals
 
         # Save year summary
         with open(f"{output_dir}/hindu_festivals_{year_str}_all_states.json", "w") as f:
