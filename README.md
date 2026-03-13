@@ -10,10 +10,10 @@ A programmatic, state-wise collection of Indian festivals and public holidays in
 You don't need to clone this repo to use the data. Fetch the JSON directly via JSDelivr CDN:
 
 **Latest Full Dataset:**  
-`https://cdn.jsdelivr.net/gh/ganeshsp1/indian-festivals-api@main/data/latest.json`
+`https://cdn.jsdelivr.net/gh/ganeshsp1/indian-festivals-api/data/latest.json`
 
 **Specific State (e.g., Kerala 2026):**  
-`https://cdn.jsdelivr.net/gh/ganeshsp1/indian-festivals-api@main/data/2026/kerala.json`
+`https://cdn.jsdelivr.net/gh/ganeshsp1/indian-festivals-api/data/2026/kerala.json`
 
 ## 📊 Data Coverage
 
